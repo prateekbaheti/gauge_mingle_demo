@@ -4,7 +4,7 @@ Before your team can start using Mingle, you must create and configure a project
 
 Create new projects from the Current projects page. This is the first page you see after signing in to Mingle.
 
-* Sign me in as "John Doe"
+* Sign me in with name "twist" and password "Twist#123"
 
 There are 3 ways you can create project
 
@@ -21,7 +21,7 @@ You can use one of Mingle's pre-configured project templates as a basis for crea
 * When entering project details, choose the template you want to use as a basis for your project.
 ![](http://www.thoughtworks.com/products/docs/mingle/13.4/help/resources/images/installation/new_project_from_template.png)
 
-* Click the 'Create project' link to complete the project creation.
+* Click the "Create project" link to complete project creation.
 
 ![](http://www.thoughtworks.com/products/docs/mingle/13.4/help/resources/images/installation/complete_create_project_link.png)
 
@@ -30,8 +30,8 @@ You can use one of Mingle's pre-configured project templates as a basis for crea
 * To create a new project, click the New project link on the Current projects page.
 ![](http://www.thoughtworks.com/products/docs/mingle/13.4/help/resources/images/installation/create_new_project_link.png)
 
-* Enter project name and select the 'Blank'.
-* Click the 'Create project' link to complete project creation.
+* Enter project name "test_project" and select the "Blank".
+* Click the "Create project" link to complete project creation.
 
 
 
