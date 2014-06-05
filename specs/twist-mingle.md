@@ -28,6 +28,7 @@ You can use one of Mingle's pre-configured project templates as a basis for crea
 ## Create a new project from scratch
 
 * To create a new project, click the New project link on the Current projects page.
+* 
 ![](http://www.thoughtworks.com/products/docs/mingle/13.4/help/resources/images/installation/create_new_project_link.png)
 
 * Enter project name "test_project" and select blank template.
