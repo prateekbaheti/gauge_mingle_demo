@@ -1,9 +1,4 @@
 {
   "Language": "java",
-  "Plugins": [
-    {
-      "Id": "selenium-webdriver",
-      "Version": "1.0.0"
-    }
-  ]
+  "Plugins":  [ ]
 }
