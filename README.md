@@ -10,7 +10,7 @@ Requirements
 
 Execution
 ---------
-Run in command line from the project directory
+Run from command line in the project directory
 
 ````
 gauge specs/twist-mingle.md
